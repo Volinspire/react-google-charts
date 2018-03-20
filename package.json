@@ -21,13 +21,11 @@
   "dependencies": {
     "debug": "^2.2.0",
     "loadjs": "^3.3.1",
-    "prop-types": "^15.5.8",
-    "react": "^15.3.2 || ^16",
-    "react-dom": "^15.3.2 || ^16"
+    "prop-types": "^15.5.8"
   },
   "peerDependencies": {
-    "react": ">= 0.13.x",
-    "react-dom": ">= 0.13.x"
+    "react": ">= 0.13.x <= 16.2.0",
+    "react-dom": ">= 0.13.x <= 16.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
